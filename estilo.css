@@ -1,0 +1,65 @@
+body{
+	background-image: url(brunei.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+h1{
+	font-family: century gothic;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 50px;
+}
+p{
+	font-family: century gothic;
+	font-size: 21px;
+}
+h6{
+	text-align: center;
+	font-style: italic;
+	color: #555;
+}
+h2{
+	font-family: century gothic;
+	font-size: 30px;
+}
+th{
+	font-family: century gothic;
+	font-size: 40px;
+	padding: 18px;
+
+}
+table{
+	background-color: yellow;
+	border-radius: 10px;
+	overflow: hidden;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: century gothic;
+  font-weight: bold;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+h3{
+	font-family: century gothic;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 100px;
+	text-shadow: 0 1px 0 #FF0000, 0 2px 0 #FF0000,
+                     0 3px 0 #FF0000, 0 4px 0 #FF0000,
+                     0 5px 0 #FF0000, 0 6px 0 #FF0000,
+                     0 7px 0 #FF0000, 0 8px 0 #FF0000,
+                     0 9px 0 #FF0000, 0 10px 0 #FF0000,
+                     0 11px 0 #FF0000, 0 12px 0 #FF0000,
+                     0 20px 30px rgba(0, 0, 0, 0.5);
+}
